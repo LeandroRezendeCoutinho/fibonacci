@@ -7,6 +7,7 @@
 * Javascript
 * Python
 * Ruby
+* Rust
 
 ### First check if you have the language installed
 
@@ -44,10 +45,16 @@ python fib.py
 
 #### Running Ruby
 ```
-Ruby fib.rb
+ruby fib.rb
 ```
 
 #### Running Ruby with JIT
 ```
-Ruby --jit fib.rb
+ruby --jit fib.rb
+```
+
+#### Running Rust
+```
+rustc fib.rs -o fibrs
+./fibrs
 ```
