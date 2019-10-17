@@ -5,6 +5,7 @@
 * Crystal
 * Elixir
 * Javascript
+* Python
 * Ruby
 
 ### First check if you have the language installed
@@ -34,6 +35,11 @@ elixir fib.ex
 #### Running Javascript
 ```
 node fib.js
+```
+
+#### Running python
+```
+python fib.py
 ```
 
 #### Running Ruby
