@@ -8,6 +8,8 @@
 * Python
 * Ruby
 * Rust
+* Typescript
+
 
 ### First check if you have the language installed
 
@@ -57,4 +59,9 @@ ruby --jit fib.rb
 ```
 rustc fib.rs -o fibrs
 ./fibrs
+```
+
+#### Running Typescript
+```
+deno fib.ts
 ```
