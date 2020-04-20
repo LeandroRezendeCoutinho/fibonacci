@@ -5,6 +5,7 @@
 * Crystal
 * Elixir
 * Javascript
+* PHP
 * Python
 * Ruby
 * Rust
@@ -38,6 +39,11 @@ elixir fib.ex
 #### Running Javascript
 ```
 node fib.js
+```
+
+#### Running PHP
+```
+php fib.php
 ```
 
 #### Running python
